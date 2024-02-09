@@ -1,0 +1,37 @@
+
+[
+    {
+    "id":0,
+     "grade":" A ",
+    "subject":" Mathematics",
+    "date":"2024-11-22 ",
+    "topic":"Algebra",
+    "lesson":"2 ",
+    "goal": " the goal is to understand basic Mathematics ",
+   "material":" Aki ola seriels, google ",
+    "outcome":" At the end of the  lesson everyone should be able to define algebra ",
+   "assigment":" What is algebra ",
+    "reflection":" what have you learn so far? ",
+    "g_assigment":" Do a research about algebra ",
+    "presentation":" what did you achieve? "
+        
+    },
+    {
+        "id":1,
+         "grade":"B",
+        "subject":"Social Studies",
+        "date":"2024-12-22 ",
+        "topic":"Mariage",
+        "lesson":"4 ",
+        "goal": " the goal is to understand mariage ",
+       " material":" Aki ola seriels, google ",
+        "outcome":" At the end of the  lesson everyone should be able to define mariage ",
+       "assigment":" What are the types of mariage? ",
+        "reflection":" what have you learn so far? ",
+        "g_assigment":" Do a research about different marriage ceremony base on your ethic group ",
+        "presentation":" How does Akans perform their mariage rite? "
+            
+        }
+  
+    
+]
